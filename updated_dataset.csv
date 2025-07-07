@@ -1,0 +1,201 @@
+submission_id,district,enumerator,respondent_type,submission_date,interview_duration_min,response_status,non_response_reason
+S0000,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-14,20,Completed,
+S0001,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-07-06,66,Non-response,No time for interview
+S0002,Rubavu,Charlie,Micro Entrepreneur,2025-06-28,61,Completed,
+S0003,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-18,46,Completed,
+S0004,Kirehe | Mahama,Diana,Indirect Participant,2025-07-17,29,Non-response,Wrong number
+S0003,Kirehe | Mahama,Diana,Indirect Participant,2025-07-10,59,Completed,
+S0006,Bugesera,Bob,Micro Entrepreneur,2025-07-13,19,Completed,
+S0007,Rubavu,Diana,Micro Entrepreneur,2025-07-10,50,Non-response,Duplicate
+S0008,Kirehe | Mahama,Diana,Indirect Participant,2025-07-11,41,Completed,
+S0009,Rubavu,Bob,Micro Entrepreneur,2025-06-30,31,Completed,
+S0010,Bugesera,Charlie,Micro Entrepreneur,2025-07-03,68,Completed,
+S0011,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-07-15,49,Non-response,Phone unanswered
+S0012,Rubavu,Bob,Micro Entrepreneur,2025-07-16,53,Completed,
+S0013,Kirehe | Mahama,Alice,Indirect Participant,2025-07-02,64,Non-response,Duplicate
+S0014,Kirehe | Mahama,Charlie,Indirect Participant,2025-07-12,50,Completed,
+S0015,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-06-29,57,Completed,
+S0016,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-07,62,Completed,
+S0017,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-15,59,Non-response,Phone unanswered
+S0018,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-10,54,Completed,
+S0019,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-02,77,Completed,
+S0020,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-06-28,69,Completed,
+S0021,Bugesera,Bob,Indirect Participant,2025-06-28,49,Completed,
+S0022,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-15,36,Completed,
+S0023,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-12,60,Completed,
+S0024,Kirehe | Mahama,Diana,Indirect Participant,2025-07-14,53,Completed,
+S0025,Rubavu,Alice,Indirect Participant,2025-07-08,76,Completed,
+S0026,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-18,65,Completed,
+S0027,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-14,61,Completed,
+S0028,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-10,50,Completed,
+S0029,Bugesera,Diana,Micro Entrepreneur,2025-06-28,37,Non-response,Phone unanswered
+S0030,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-06-29,47,Completed,
+S0031,Kirehe | Mahama,Bob,Indirect Participant,2025-07-06,57,Completed,
+S0032,Bugesera,Alice,Micro Entrepreneur,2025-06-30,24,Non-response,Refused
+S0033,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-06-28,69,Completed,
+S0034,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-07-18,81,Non-response,No time for interview
+S0035,Rubavu,Diana,Micro Entrepreneur,2025-07-13,21,Completed,
+S0036,Kirehe | Mahama,Diana,Indirect Participant,2025-07-03,29,Completed,
+S0037,Bugesera,Diana,Indirect Participant,2025-07-14,53,Completed,
+S0038,Rubavu,Charlie,Micro Entrepreneur,2025-07-02,41,Completed,
+S0039,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-02,54,Completed,
+S0040,Bugesera,Alice,Micro Entrepreneur,2025-07-03,49,Completed,
+S0041,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-06-30,35,Completed,
+S0042,Bugesera,Alice,Micro Entrepreneur,2025-07-18,69,Completed,
+S0043,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-07-02,57,Completed,
+S0044,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-18,42,Completed,
+S0045,Rubavu,Charlie,Micro Entrepreneur,2025-07-02,73,Completed,
+S0046,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-07,42,Completed,
+S0047,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-07,31,Completed,
+S0048,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-16,53,Completed,
+S0049,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-14,55,Non-response,Duplicate
+S0050,Rusizi | Kamembe,Bob,Micro Entrepreneur,2025-07-18,58,Completed,
+S0051,Rubavu,Bob,Indirect Participant,2025-07-11,60,Completed,
+S0052,Rusizi | Kamembe,Bob,Micro Entrepreneur,2025-07-06,58,Completed,
+S0053,Rubavu,Bob,Micro Entrepreneur,2025-07-11,57,Completed,
+S0054,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-06-28,41,Non-response,Duplicate
+S0055,Rusizi | Kamembe,Charlie,Micro Entrepreneur,2025-07-16,40,Completed,
+S0056,Bugesera,Bob,Micro Entrepreneur,2025-07-10,61,Completed,
+S0057,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-10,54,Completed,
+S0058,Bugesera,Charlie,Indirect Participant,2025-07-01,62,Completed,
+S0059,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-06-28,24,Non-response,Refused
+S0060,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-14,42,Completed,
+S0061,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-05,79,Non-response,Wrong number
+S0062,Rubavu,Bob,Micro Entrepreneur,2025-06-29,58,Completed,
+S0063,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-05,54,Completed,
+S0064,Kirehe | Mahama,Diana,Indirect Participant,2025-07-04,61,Non-response,Wrong number
+S0065,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-06-29,83,Completed,
+S0066,Bugesera,Diana,Indirect Participant,2025-06-30,80,Non-response,Other
+S0067,Rubavu,Alice,Indirect Participant,2025-07-15,26,Completed,
+S0068,Bugesera,Alice,Micro Entrepreneur,2025-07-09,32,Completed,
+S0069,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-06-28,26,Completed,
+S0070,Rubavu,Alice,Micro Entrepreneur,2025-07-09,39,Completed,
+S0071,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-02,51,Completed,
+S0072,Bugesera,Charlie,Micro Entrepreneur,2025-07-14,54,Non-response,No time for interview
+S0073,Rubavu,Diana,Micro Entrepreneur,2025-07-13,27,Non-response,No time for interview
+S0074,Rubavu,Charlie,Micro Entrepreneur,2025-07-12,22,Non-response,Not interested
+S0075,Rubavu,Diana,Micro Entrepreneur,2025-07-12,39,Completed,
+S0076,Rubavu,Alice,Indirect Participant,2025-07-02,64,Completed,
+S0077,Bugesera,Diana,Micro Entrepreneur,2025-07-18,66,Completed,
+S0078,Kirehe | Mahama,Alice,Indirect Participant,2025-07-11,76,Completed,
+S0079,Bugesera,Diana,Micro Entrepreneur,2025-06-29,50,Completed,
+S0080,Rubavu,Diana,Micro Entrepreneur,2025-07-08,62,Completed,
+S0081,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-16,65,Completed,
+S0082,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-04,43,Completed,
+S0083,Bugesera,Bob,Indirect Participant,2025-07-03,56,Completed,
+S0084,Kirehe | Mahama,Alice,Indirect Participant,2025-06-29,60,Completed,
+S0085,Kirehe | Mahama,Bob,Indirect Participant,2025-07-03,36,Completed,
+S0086,Rubavu,Charlie,Micro Entrepreneur,2025-07-15,75,Completed,
+S0087,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-06-29,49,Non-response,Refused
+S0088,Rubavu,Alice,Indirect Participant,2025-07-15,51,Completed,
+S0089,Kirehe | Mahama,Alice,Indirect Participant,2025-07-12,36,Completed,
+S0090,Bugesera,Diana,Indirect Participant,2025-07-16,38,Completed,
+S0091,Rubavu,Alice,Micro Entrepreneur,2025-06-29,17,Non-response,Wrong number
+S0092,Rubavu,Alice,Micro Entrepreneur,2025-07-17,51,Non-response,Phone unanswered
+S0093,Kirehe | Mahama,Bob,Indirect Participant,2025-07-03,88,Completed,
+S0094,Rubavu,Alice,Micro Entrepreneur,2025-06-28,35,Completed,
+S0095,Kirehe | Mahama,Charlie,Indirect Participant,2025-07-12,95,Completed,
+S0096,Kirehe | Mahama,Charlie,Indirect Participant,2025-07-07,71,Completed,
+S0097,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-16,43,Non-response,Duplicate
+S0098,Bugesera,Alice,Indirect Participant,2025-07-14,50,Completed,
+S0099,Bugesera,Diana,Indirect Participant,2025-07-02,48,Completed,
+S0050,Bugesera,Charlie,Micro Entrepreneur,2025-07-01,76,Completed,
+S0101,Kirehe | Mahama,Alice,Indirect Participant,2025-07-07,58,Completed,
+S0102,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-14,68,Completed,
+S0103,Kirehe | Mahama,Diana,Indirect Participant,2025-07-07,55,Non-response,No time for interview
+S0104,Rusizi | Kamembe,Charlie,Micro Entrepreneur,2025-07-14,48,Non-response,Duplicate
+S0105,Kirehe | Mahama,Alice,Indirect Participant,2025-07-17,55,Completed,
+S0106,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-02,44,Completed,
+S0107,Rubavu,Charlie,Micro Entrepreneur,2025-06-29,28,Completed,
+S0108,Kirehe | Mahama,Diana,Indirect Participant,2025-07-03,62,Completed,
+S0109,Bugesera,Bob,Micro Entrepreneur,2025-07-18,27,Completed,
+S0110,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-06-29,46,Completed,
+S0111,Kirehe | Mahama,Bob,Indirect Participant,2025-07-10,43,Non-response,Duplicate
+S0112,Rusizi | Kamembe,Charlie,Indirect Participant,2025-07-08,60,Completed,
+S0113,Rubavu,Bob,Micro Entrepreneur,2025-07-08,73,Completed,
+S0114,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-13,68,Completed,
+S0115,Rubavu,Charlie,Micro Entrepreneur,2025-07-08,60,Completed,
+S0116,Rubavu,Diana,Micro Entrepreneur,2025-07-16,41,Completed,
+S0117,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-12,47,Completed,
+S0118,Rubavu,Diana,Micro Entrepreneur,2025-07-13,45,Completed,
+S0119,Kirehe | Mahama,Bob,Indirect Participant,2025-07-08,43,Completed,
+S0120,Rubavu,Diana,Indirect Participant,2025-07-13,44,Completed,
+S0121,Rubavu,Charlie,Indirect Participant,2025-07-05,44,Completed,
+S0122,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-01,43,Completed,
+S0123,Bugesera,Charlie,Micro Entrepreneur,2025-07-05,64,Completed,
+S0124,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-01,34,Completed,
+S0125,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-06-30,39,Completed,
+S0126,Rubavu,Charlie,Micro Entrepreneur,2025-06-30,26,Completed,
+S0127,Rubavu,Bob,Indirect Participant,2025-07-15,71,Completed,
+S0128,Bugesera,Bob,Micro Entrepreneur,2025-07-16,38,Completed,
+S0129,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-16,60,Completed,
+S0130,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-18,57,Non-response,Not interested
+S0131,Kirehe | Mahama,Diana,Indirect Participant,2025-07-02,70,Completed,
+S0132,Bugesera,Alice,Micro Entrepreneur,2025-07-15,47,Completed,
+S0133,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-07,36,Completed,
+S0134,Rusizi | Kamembe,Charlie,Micro Entrepreneur,2025-07-18,27,Completed,
+S0135,Kirehe | Mahama,Bob,Indirect Participant,2025-07-03,10,Non-response,Wrong number
+S0136,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-06-28,52,Completed,
+S0137,Rubavu,Charlie,Indirect Participant,2025-07-02,62,Completed,
+S0138,Kirehe | Mahama,Alice,Indirect Participant,2025-07-06,57,Completed,
+S0139,Rusizi | Kamembe,Bob,Micro Entrepreneur,2025-07-09,27,Completed,
+S0140,Rusizi | Kamembe,Charlie,Micro Entrepreneur,2025-07-11,66,Completed,
+S0141,Kirehe | Mahama,Bob,Indirect Participant,2025-06-29,40,Non-response,No time for interview
+S0142,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-14,36,Completed,
+S0143,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-11,39,Completed,
+S0144,Kirehe | Mahama,Alice,Indirect Participant,2025-07-10,51,Non-response,Duplicate
+S0145,Bugesera,Diana,Indirect Participant,2025-07-06,28,Completed,
+S0146,Kirehe | Mahama,Alice,Indirect Participant,2025-07-12,49,Completed,
+S0147,Kirehe | Mahama,Diana,Indirect Participant,2025-07-12,56,Completed,
+S0148,Bugesera,Bob,Micro Entrepreneur,2025-07-08,67,Non-response,No time for interview
+S0149,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-13,53,Completed,
+S0150,Rusizi | Kamembe,Alice,Indirect Participant,2025-07-14,30,Completed,
+S0151,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-01,52,Completed,
+S0152,Bugesera,Alice,Micro Entrepreneur,2025-06-28,34,Completed,
+S0153,Kirehe | Mahama,Diana,Indirect Participant,2025-07-05,33,Completed,
+S0154,Rusizi | Kamembe,Alice,Micro Entrepreneur,2025-07-14,30,Completed,
+S0155,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-06-30,21,Completed,
+S0156,Rubavu,Diana,Micro Entrepreneur,2025-07-17,41,Completed,
+S0157,Rubavu,Bob,Micro Entrepreneur,2025-07-12,67,Completed,
+S0158,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-12,84,Completed,
+S0159,Rubavu,Bob,Micro Entrepreneur,2025-07-11,41,Completed,
+S0160,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-11,66,Completed,
+S0161,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-06-29,44,Completed,
+S0162,Kirehe | Mahama,Charlie,Indirect Participant,2025-07-10,25,Completed,
+S0163,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-11,61,Completed,
+S0164,Bugesera,Diana,Indirect Participant,2025-07-16,54,Completed,
+S0165,Rubavu,Bob,Micro Entrepreneur,2025-07-04,77,Non-response,Phone unanswered
+S0166,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-06-30,27,Completed,
+S0167,Kirehe | Mahama,Diana,Indirect Participant,2025-07-12,92,Completed,
+S0168,Bugesera,Charlie,Micro Entrepreneur,2025-07-11,74,Completed,
+S0169,Kirehe | Mahama,Charlie,Indirect Participant,2025-07-08,50,Non-response,Not interested
+S0170,Rubavu,Bob,Micro Entrepreneur,2025-07-12,46,Completed,
+S0171,Bugesera,Charlie,Indirect Participant,2025-07-10,39,Completed,
+S0172,Kirehe | Mahama,Alice,Micro Entrepreneur,2025-07-15,52,Completed,
+S0173,Kirehe | Mahama,Bob,Indirect Participant,2025-07-03,47,Completed,
+S0174,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-06-30,58,Non-response,Phone unanswered
+S0175,Kirehe | Mahama,Bob,Indirect Participant,2025-07-16,46,Completed,
+S0176,Rubavu,Alice,Micro Entrepreneur,2025-07-12,71,Completed,
+S0177,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-02,52,Completed,
+S0178,Rusizi | Kamembe,Bob,Indirect Participant,2025-07-07,46,Non-response,No time for interview
+S0179,Bugesera,Bob,Micro Entrepreneur,2025-07-04,65,Non-response,Other
+S0180,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-14,26,Completed,
+S0181,Bugesera,Alice,Micro Entrepreneur,2025-07-04,55,Non-response,No time for interview
+S0182,Rusizi | Kamembe,Diana,Micro Entrepreneur,2025-07-09,50,Non-response,Wrong number
+S0183,Rubavu,Bob,Micro Entrepreneur,2025-07-14,29,Completed,
+S0184,Kirehe | Mahama,Bob,Micro Entrepreneur,2025-07-10,24,Completed,
+S0185,Rubavu,Charlie,Indirect Participant,2025-07-17,65,Completed,
+S0186,Rubavu,Bob,Micro Entrepreneur,2025-07-01,64,Non-response,Duplicate
+S0187,Kirehe | Mahama,Charlie,Micro Entrepreneur,2025-07-07,53,Completed,
+S0188,Kirehe | Mahama,Diana,Indirect Participant,2025-06-30,76,Non-response,Duplicate
+S0189,Kirehe | Mahama,Alice,Indirect Participant,2025-07-06,57,Completed,
+S0190,Bugesera,Alice,Micro Entrepreneur,2025-07-10,69,Completed,
+S0191,Rubavu,Diana,Micro Entrepreneur,2025-07-15,56,Completed,
+S0192,Rusizi | Kamembe,Alice,Micro Entrepreneur,2025-07-12,46,Completed,
+S0193,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-01,34,Non-response,Phone unanswered
+S0194,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-07-12,41,Non-response,Not interested
+S0195,Kirehe | Mahama,Diana,Micro Entrepreneur,2025-06-29,46,Non-response,Other
+S0196,Rubavu,Alice,Micro Entrepreneur,2025-07-12,70,Completed,
+S0197,Rubavu,Charlie,Micro Entrepreneur,2025-07-05,62,Completed,
+S0198,Rubavu,Diana,Indirect Participant,2025-07-05,55,Completed,
+S0199,Rubavu,Bob,Indirect Participant,2025-07-14,63,Completed,
